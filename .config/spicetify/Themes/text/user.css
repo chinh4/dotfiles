@@ -49,12 +49,12 @@
     --font-family-header: "asciid";
     --font-size-multiplier-header: 4;
 
-    --display-card-image: block; /* none | block */
+    --display-card-image: none; /* none | block */
     --display-coverart-image: none; /* none | block */
     --display-header-image: none; /* none | block */
-    --display-sidebar-image: block; /* none | block */
+    --display-sidebar-image: none; /* none | block */
     --display-tracklist-image: none; /* none | block */
-    --display-spicetify-banner-ascii: block; /* none | block */
+    --display-spicetify-banner-ascii: none; /* none | block */
     --display-music-banner-ascii: none; /* none | block */
 
     --border-radius: 0px;
