@@ -1,16 +1,14 @@
 window-decoration = false
 window-inherit-working-directory = true
 window-theme = dark
-window-save-state = always
 
 mouse-hide-while-typing = true
 copy-on-select = false
 
 background = {{background}}
-
 foreground = {{foreground}}
-selection-foreground = {{foreground}}
-selection-background = {{background}}
+selection-foreground = {{background}}
+selection-background = {{foreground}}
 cursor-color = {{cursor}}
 
 palette = 0 = {{color0}}

@@ -1,31 +1,29 @@
 window-decoration = false
 window-inherit-working-directory = true
 window-theme = dark
-window-save-state = always
 
 mouse-hide-while-typing = true
 copy-on-select = false
 
-background = #151618
+background = #000000
+foreground = #F1F4F8
+selection-foreground = #000000
+selection-background = #F1F4F8
+cursor-color = #F1F4F8
 
-foreground = #F4F8FD
-selection-foreground = #F4F8FD
-selection-background = #151618
-cursor-color = #919FB4
-
-palette = 0 = #3F4043
-palette = 1 = #444950
-palette = 2 = #556278
-palette = 3 = #79758E
-palette = 4 = #757B7E
-palette = 5 = #7E8288
-palette = 6 = #A7B0BA
-palette = 7 = #E7ECF3
-palette = 8 = #A1A5AA
-palette = 9 = #474E58
-palette = 10 = #5E708C
-palette = 11 = #827CA2
-palette = 12 = #7C8589
-palette = 13 = #969BA4
-palette = 14 = #DFEAF8
-palette = 15 = #E7ECF3
+palette = 0 = #242426
+palette = 1 = #5E514D
+palette = 2 = #48615A
+palette = 3 = #57802D
+palette = 4 = #464966
+palette = 5 = #874973
+palette = 6 = #475D68
+palette = 7 = #F1F4F8
+palette = 8 = #4A4B4C
+palette = 9 = #7A645D
+palette = 10 = #538074
+palette = 11 = #69BF13
+palette = 12 = #515689
+palette = 13 = #C04D9A
+palette = 14 = #51788B
+palette = 15 = #F1F4F8

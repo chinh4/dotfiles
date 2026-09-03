@@ -1,0 +1,3 @@
+environment {
+    QT_PLATFORM_THEME "qt6ct"
+}

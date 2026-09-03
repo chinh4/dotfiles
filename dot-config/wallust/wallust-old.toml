@@ -5,7 +5,7 @@ backend = "fastresize"
 
 # Use the most prominent colors in a way that makes sense, a scheme color palette:
 # salience, ansi, and kmeans
-palette = "ansi"
+palette = "salience"
 style = "dark" # dark or light
 use16cols = true
 
@@ -19,15 +19,15 @@ check_contrast = true
 alpha = 75
 
 [templates]
-discord = { template = 'discord', target = '~/.config/equibop/themes/wallust.css' , pywal = false }
-#foot = { template = 'foot', target = '~/.config/foot/colors.ini' , pywal = true }
-ghostty = { template = 'ghostty', target = '~/.config/ghostty/themes/wallust' , pywal = false }
-gtk3 = { template = 'gtk', target = '~/.config/gtk-3.0/gtk.css' , pywal = false }
-gtk4 = { template = 'gtk', target = '~/.config/gtk-4.0/gtk.css' , pywal = false }
+discord = { template = 'discord', target = '~/.config/equibop/themes/wallust.css' , pywal = true }
+foot = { template = 'foot', target = '~/.config/foot/colors.ini' , pywal = true }
+ghostty = { template = 'ghostty', target = '~/.config/ghostty/themes/wallust' , pywal = true }
+gtk3 = { template = 'gtk', target = '~/.config/gtk-3.0/gtk.css' , pywal = true }
+gtk4 = { template = 'gtk', target = '~/.config/gtk-4.0/gtk.css' , pywal = true }
 # hyprland = { template = 'hyprland', target = '~/.config/hypr/colors.conf' }
 # hyprpaper = { template = 'hyprpaper', target = '~/.config/hypr/hyprpaper.conf' }
-niri = { template = 'niri', target = '~/.config/niri/colors.kdl' , pywal = false }
-quickshell = { template = 'quickshell', target = '~/.config/quickshell/globals/Colors.qml' , pywal = false }
+niri = { template = 'niri', target = '~/.config/niri/colors.kdl' , pywal = true }
+quickshell = { template = 'quickshell', target = '~/.config/quickshell/globals/Colors.qml' , pywal = true }
 spotify = { template = 'spotify', target = '~/.config/spicetify/Themes/text/color.ini' , pywal = true }
 zathura = { template = 'zathura', target = '~/.config/zathura/zathurarc' , pywal = true }
-zed = { template = 'zed', target = '~/.config/zed/themes/wallust.json' , pywal = false }
+zed = { template = 'zed', target = '~/.config/zed/themes/wallust.json' , pywal = true }

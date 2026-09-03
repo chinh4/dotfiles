@@ -1,4 +1,5 @@
 include "autostart.kdl"
+include "environment.kdl"
 include "general.kdl"
 include "input.kdl"
 include "outputs.kdl"
