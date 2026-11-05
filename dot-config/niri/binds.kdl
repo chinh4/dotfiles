@@ -4,7 +4,7 @@ binds {
     Mod+Slash { show-hotkey-overlay; }
 
     // Suggested binds for running programs: terminal, app launcher, screen locker.
-    Mod+Return hotkey-overlay-title="Terminal" { spawn "ghostty"; }
+    Mod+Return hotkey-overlay-title="Terminal" { spawn "foot"; }
     Mod+Space hotkey-overlay-title="Application Launcher" { spawn "wofi" "--show" "drun"; }
 
     // Use spawn-sh to run a shell command. Do this if you need pipes, multiple commands, etc.

@@ -5,25 +5,25 @@ window-theme = dark
 mouse-hide-while-typing = true
 copy-on-select = false
 
-background = #000000
-foreground = #F1F4F8
-selection-foreground = #000000
-selection-background = #F1F4F8
-cursor-color = #F1F4F8
+background = #0D1016
+foreground = #9EA0A8
+selection-foreground = #0D1016
+selection-background = #9EA0A8
+cursor-color = #737897
 
-palette = 0 = #242426
-palette = 1 = #5E514D
-palette = 2 = #48615A
-palette = 3 = #57802D
-palette = 4 = #464966
-palette = 5 = #874973
-palette = 6 = #475D68
-palette = 7 = #F1F4F8
-palette = 8 = #4A4B4C
-palette = 9 = #7A645D
-palette = 10 = #538074
-palette = 11 = #69BF13
-palette = 12 = #515689
-palette = 13 = #C04D9A
-palette = 14 = #51788B
-palette = 15 = #F1F4F8
+palette = 0 = #00062C
+palette = 1 = #5B6166
+palette = 2 = #5B586F
+palette = 3 = #62666B
+palette = 4 = #555A5D
+palette = 5 = #595D74
+palette = 6 = #505154
+palette = 7 = #83868D
+palette = 8 = #585B62
+palette = 9 = #747F89
+palette = 10 = #746F98
+palette = 11 = #7B828C
+palette = 12 = #6A7278
+palette = 13 = #7178A1
+palette = 14 = #616368
+palette = 15 = #B8BABD

@@ -6,8 +6,6 @@ import Quickshell
 Singleton {
     id: root
 
-    readonly property color backgrounda: "{{background | hexa}}"
-
     readonly property color background: "{{background}}"
     readonly property color foreground: "{{foreground}}"
     readonly property color cursor: "{{cursor}}"
